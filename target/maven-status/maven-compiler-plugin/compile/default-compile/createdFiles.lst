@@ -1,0 +1,6 @@
+Retail Bookstore/service/UserService.class
+Retail Bookstore/controllerWithoutDb/UserRegisterController.class
+Retail Bookstore/db/UserDb.class
+Retail Bookstore/model/User.class
+Retail Bookstore/controllerWithoutDb/UserPasswordController.class
+Retail Bookstore/controllerWithoutDb/UserLoginController.class
